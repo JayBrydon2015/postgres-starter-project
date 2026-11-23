@@ -1,4 +1,4 @@
--- Perform inner join between customers table and an aggregation of orders table
+-- Perform left join between customers table and an aggregation of orders table
 -- Replace NULL number_of_orders and total_spent values with 0
 -- Investigate which customer spent the most in total
 
