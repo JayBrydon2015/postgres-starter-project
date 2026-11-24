@@ -1,6 +1,6 @@
 # postgres-starter-project
 
-A starter project using SQL and PostgreSQL for database management, table creation, and simple querying. The SQL scripts, located in `sql/`, contain simple commands that were run within PostgreSQL.
+A starter project using SQL and PostgreSQL for database management, table creation, and simple querying. The SQL scripts, located in `sql/`, contain simple commands that were run within PostgreSQL and using pgAdmin 4.
 
 The scripts were run in the following order:
 
